@@ -1,0 +1,42 @@
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\bin\Debug\Products.exe.config
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\bin\Debug\Products.exe
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\bin\Debug\Products.pdb
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.frmInheritance.resources
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.Properties.Resources.resources
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.csproj.GenerateResource.Cache
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.exe
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.pdb
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.frmLogin.resources
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.frmMain.resources
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.Products.resources
+c:\users\future ceo\documents\visual studio 2012\Projects\Products\Products\obj\Debug\Products.Users.resources
+I:\Products\Products\bin\Debug\Products.exe.config
+I:\Products\Products\obj\Debug\Products.exe
+I:\Products\Products\obj\Debug\Products.pdb
+I:\Products\Products\bin\Debug\Products.exe
+I:\Products\Products\bin\Debug\Products.pdb
+I:\Products\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+I:\Products\Products\obj\Debug\Products.frmInheritance.resources
+I:\Products\Products\obj\Debug\Products.frmLogin.resources
+I:\Products\Products\obj\Debug\Products.frmMain.resources
+I:\Products\Products\obj\Debug\Products.Properties.Resources.resources
+I:\Products\Products\obj\Debug\Products.csproj.GenerateResource.Cache
+I:\Products\Products\obj\Debug\Products.frmProducts.resources
+I:\Products\Products\obj\Debug\Products.frmUsers.resources
+G:\Products\Products\bin\Debug\Products.exe.config
+G:\Products\Products\obj\Debug\Products.exe
+G:\Products\Products\obj\Debug\Products.pdb
+G:\Products\Products\bin\Debug\Products.exe
+G:\Products\Products\bin\Debug\Products.pdb
+G:\Products\Products\obj\Debug\Products.frmInheritance.resources
+G:\Products\Products\obj\Debug\Products.frmLogin.resources
+G:\Products\Products\obj\Debug\Products.frmMain.resources
+G:\Products\Products\obj\Debug\Products.frmProducts.resources
+G:\Products\Products\obj\Debug\Products.Properties.Resources.resources
+G:\Products\Products\obj\Debug\Products.frmUsers.resources
+G:\Products\Products\obj\Debug\Products.csproj.GenerateResource.Cache
+G:\Products\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Products\Products\Products\bin\Debug\Products.exe.config
+D:\Documents\Visual Studio 2013\Projects\Products\Products\Products\obj\Debug\Products.exe
+D:\Documents\Visual Studio 2013\Projects\Products\Products\Products\obj\Debug\Products.pdb
